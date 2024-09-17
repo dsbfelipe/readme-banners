@@ -14,21 +14,21 @@ The purpose of this repository is to centralize and manage all banners that I us
 ## 🖼️ Available Banners
 
 ### freeCodeCamp
-Used for projects related to freeCodeCamp's courses.
+A banner for the freeCodeCamp platform, used for projects related to freeCodeCamp's courses.
 
 <img src="https://raw.githubusercontent.com/dsbfelipe/readme-banners/main/images/freecodecamp.png">
 
 <hr>
 
 ### Exercism
-Used for repositories containing solutions to Exercism exercises.
+A banner for the Exercism platform, used for repositories containing solutions to Exercism exercises.
 
 <img src="https://raw.githubusercontent.com/dsbfelipe/readme-banners/main/images/exercism.png">
 
 <hr>
 
 ### The Odin Project
-Used for repositories containing solutions to Exercism exercises.
+A banner for The Odin Project, used for projects related to The Odin Project’s curriculum.
 
 <img src="https://raw.githubusercontent.com/dsbfelipe/readme-banners/main/images/odin-project.png">
 

@@ -40,4 +40,6 @@ To use a banner in your README, simply copy the URL of the desired banner image 
 ```markdown
 ![Banner](https://raw.githubusercontent.com/dsbfelipe/readme-banners/main/example.png)
 ```
+
+## ⭐️ Support
  Feel free to open issues for banners suggestions. If you find these banners helpful, consider giving this repository a star ⭐️ to show your support and help others discover it!

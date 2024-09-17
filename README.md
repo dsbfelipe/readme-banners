@@ -18,7 +18,6 @@ Used for projects related to freeCodeCamp's courses.
 
 <img src="https://raw.githubusercontent.com/dsbfelipe/readme-banners/main/images/freecodecamp.png">
 
-<br>
 <hr>
 
 ### Exercism
@@ -26,7 +25,6 @@ Used for repositories containing solutions to Exercism exercises.
 
 <img src="https://raw.githubusercontent.com/dsbfelipe/readme-banners/main/images/exercism.png">
 
-<br>
 <hr>
 
 ### The Odin Project

@@ -14,6 +14,7 @@ The purpose of this repository is to centralize and manage all banners that I us
 ## 🖼️ Available Banners
 
 ### freeCodeCamp
+
 A banner for the freeCodeCamp platform, used for projects related to freeCodeCamp's courses.
 
 <img src="https://raw.githubusercontent.com/dsbfelipe/readme-banners/main/images/freecodecamp.png">
@@ -21,6 +22,7 @@ A banner for the freeCodeCamp platform, used for projects related to freeCodeCam
 <hr>
 
 ### Exercism
+
 A banner for the Exercism platform, used for repositories containing solutions to Exercism exercises.
 
 <img src="https://raw.githubusercontent.com/dsbfelipe/readme-banners/main/images/exercism.png">
@@ -28,10 +30,18 @@ A banner for the Exercism platform, used for repositories containing solutions t
 <hr>
 
 ### The Odin Project
+
 A banner for The Odin Project, used for projects related to The Odin Project’s curriculum.
 
 <img src="https://raw.githubusercontent.com/dsbfelipe/readme-banners/main/images/odin-project.png">
 
+<hr>
+
+### DIO
+
+A banner for DIO, used for projects related to DIO’s courses and bootcamps.
+
+<img src="https://raw.githubusercontent.com/dsbfelipe/readme-banners/main/images/dio.png">
 
 ## ⚙️ How to Use
 
@@ -42,4 +52,5 @@ To use a banner in your README, simply copy the URL of the desired banner image 
 ```
 
 ## ⭐️ Support
- Feel free to open issues for banners suggestions. If you find these banners helpful, consider giving this repository a star ⭐️ to show your support and help others discover it!
+
+Feel free to open issues for banners suggestions. If you find these banners helpful, consider giving this repository a star ⭐️ to show your support and help others discover it!
